@@ -1,0 +1,8 @@
+#!/Users/alvarogonzaleztabernero/Library/CloudStorage/OneDrive-UniversidadPontificiaComillas/ICAI/4/tfg_git/tfg/bin/python
+# -*- coding: utf-8 -*-
+import re
+import sys
+from jupyter_client.kernelspecapp import KernelSpecApp
+if __name__ == '__main__':
+    sys.argv[0] = re.sub(r'(-script\.pyw|\.exe)?$', '', sys.argv[0])
+    sys.exit(KernelSpecApp.launch_instance())

@@ -1,0 +1,22 @@
+{
+    "User ID": "User_1",
+    "Vehicle Model": "BMW i3",
+    "Battery Capacity (kWh)": 108.46300741284072,
+    "Charging Station ID": "Station_391",
+    "Charging Station Location": "Houston",
+    "Charging Start Time": "2024-01-01 00:00:00",
+    "Charging End Time": "2024-01-01 00:39:00",
+    "Energy Consumed (kWh)": 60.71234573492677,
+    "Charging Duration (hours)": 0.5913634253585007,
+    "Charging Rate (kW)": 36.3891805669814,
+    "Charging Cost (USD)": 13.087716791774506,
+    "Time of Day": "Evening",
+    "Day of Week": "Tuesday",
+    "State of Charge (Start %)": 29.371575979140047,
+    "State of Charge (End %)": 86.11996244457839,
+    "Distance Driven (since last charge) (km)": 293.6021106383279,
+    "Temperature (\u00b0C)": 27.947953055800944,
+    "Vehicle Age (years)": 2.0,
+    "Charger Type": "DC Fast Charger",
+    "User Type": "Commuter"
+}

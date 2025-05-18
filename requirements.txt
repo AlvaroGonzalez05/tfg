@@ -1,0 +1,21 @@
+# Basic numerical and data manipulation libraries
+numpy==1.24.3
+pandas==1.5.3
+scikit-learn==1.2.2
+
+# Deep Learning frameworks
+torch==2.0.1
+torchvision==0.15.2
+torchaudio==2.0.2
+
+# Data visualization
+matplotlib==3.7.1
+seaborn==0.12.2
+
+# Optimization and Pyomo (for integration later)
+pyomo==6.5.1
+gurobipy==10.0.0
+
+# Miscellaneous utilities
+tqdm==4.65.0
+json ==2.0.9
