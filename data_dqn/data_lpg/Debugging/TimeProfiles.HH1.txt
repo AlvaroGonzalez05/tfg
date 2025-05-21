@@ -1,0 +1,757 @@
+Device;Load Type;Profile;Number of Activations
+AEG NM 2701 Premium;Apparent;01 h 0 min 30% [Synthetic];286
+AEG NM 2701 Premium;Electricity;01 h 0 min 30% [Synthetic];286
+AEG NM 2701 Premium;Inner Device Heat Gains;01 h 0 min 30% [Synthetic];286
+AEG NM 2701 Premium;Reactive;01 h 0 min 30% [Synthetic];286
+Bar;None;04 h 0 min 100% [Synthetic];23
+Bath Tub;Warm Water;0 h 15 min 100% [Synthetic];31
+Bath Tub;Warm Water;0 h 20 min 100% [Synthetic];37
+Bathroom Light (100W);Apparent;Bath - light [Synthetic for Light Device];2730
+Bathroom Light (100W);Electricity;Bath - light [Synthetic for Light Device];2730
+Bathroom Light (100W);Inner Device Heat Gains;Bath - light [Synthetic for Light Device];2730
+Bathroom Light (100W);Reactive;Bath - light [Synthetic for Light Device];2730
+Bathroom Mirror Light 10 W (LED);Apparent;Bath - light [Synthetic for Light Device];2730
+Bathroom Mirror Light 10 W (LED);Electricity;Bath - light [Synthetic for Light Device];2730
+Bathroom Mirror Light 10 W (LED);Inner Device Heat Gains;Bath - light [Synthetic for Light Device];2730
+Bathroom Mirror Light 10 W (LED);Reactive;Bath - light [Synthetic for Light Device];2730
+Bathroom Sink 10L/min;Cold Water;0 h 01 min 100% [Synthetic];129
+Bathroom Sink 5 L/Min;Warm Water;0 h 01 min 100% [Synthetic];7093
+Bathroom Sink 5 L/Min;Warm Water;0 h 01 min 50% [Synthetic];694
+Bed 1;None;08 h 0 min 100% [Synthetic];349
+Bed 2;None;08 h 0 min 100% [Synthetic];349
+Bed 4;None;10 h 0 min 100% [Synthetic];347
+Bed 5;None;10 h 0 min 100% [Synthetic];332
+Bed 5;None;12h 0 min 100% [Synthetic];15
+Bedroom Light (200W);Apparent;Bedroom - light [Synthetic for Light Device];5707
+Bedroom Light (200W);Electricity;Bedroom - light [Synthetic for Light Device];5707
+Bedroom Light (200W);Inner Device Heat Gains;Bedroom - light [Synthetic for Light Device];5707
+Bedroom Light (200W);Reactive;Bedroom - light [Synthetic for Light Device];5707
+Book;None;0 h 01 min 100% [Synthetic];9119
+Book;None;01 h 0 min 100% [Synthetic];12
+CD/DVD Player / Phillips CD 380;Apparent;01 h 30 min 100% [Synthetic];328
+CD/DVD Player / Phillips CD 380;Apparent;02 h 0 min 100% [Synthetic];295
+CD/DVD Player / Phillips CD 380;Apparent;Standby TV / Receiver 1 h 0 min 3% [Synthetic];8775
+CD/DVD Player / Phillips CD 380;Electricity;01 h 30 min 100% [Synthetic];328
+CD/DVD Player / Phillips CD 380;Electricity;02 h 0 min 100% [Synthetic];295
+CD/DVD Player / Phillips CD 380;Electricity;Standby TV / Receiver 1 h 0 min 3% [Synthetic];8775
+CD/DVD Player / Phillips CD 380;Inner Device Heat Gains;01 h 30 min 100% [Synthetic];328
+CD/DVD Player / Phillips CD 380;Inner Device Heat Gains;02 h 0 min 100% [Synthetic];295
+CD/DVD Player / Phillips CD 380;Inner Device Heat Gains;Standby TV / Receiver 1 h 0 min 3% [Synthetic];8775
+CD/DVD Player / Phillips CD 380;Reactive;01 h 30 min 100% [Synthetic];328
+CD/DVD Player / Phillips CD 380;Reactive;02 h 0 min 100% [Synthetic];295
+CD/DVD Player / Phillips CD 380;Reactive;Standby TV / Receiver 1 h 0 min 3% [Synthetic];8775
+Canister Vacuum Cleaner / Siemens Z6.0 VSZ61260;Apparent;0 h 30 min 100% [Synthetic];11
+Canister Vacuum Cleaner / Siemens Z6.0 VSZ61260;Electricity;0 h 30 min 100% [Synthetic];11
+Canister Vacuum Cleaner / Siemens Z6.0 VSZ61260;Inner Device Heat Gains;0 h 30 min 100% [Synthetic];11
+Canister Vacuum Cleaner / Siemens Z6.0 VSZ61260;Reactive;0 h 30 min 100% [Synthetic];11
+Car;Gasoline;0 h 10 min 33% [Synthetic];62
+Car 1, 22kW Charging Power, avg. Speed 30 km/h;Electricity for Car Charging;Profile for Home - Charging - Car 1, 22kW Charging Power, avg. Speed 30 km/h [Synthetic Charging for Car 1, 22kW Charging Power, avg. Speed 30 km/h @ Home];19531
+Car 2, 22kW Charging Power, avg. Speed 30 km/h;Electricity for Car Charging;Profile for Home - Charging - Car 2, 22kW Charging Power, avg. Speed 30 km/h [Synthetic Charging for Car 2, 22kW Charging Power, avg. Speed 30 km/h @ Home];25703
+Cell Phone Samsung Charging;Apparent;Profile for Cell Phone Samsung Charging Apparent [Measurement by ZSW (1min)];2126
+Cell Phone Samsung Charging;Apparent;Standby Generic 01 h 0 min 1% [Synthetic];681
+Cell Phone Samsung Charging;Electricity;Profile for Cell Phone Samsung Charging Electricity [Measurement by ZSW (1min)];2126
+Cell Phone Samsung Charging;Electricity;Standby Generic 01 h 0 min 1% [Synthetic];681
+Cell Phone Samsung Charging;Inner Device Heat Gains;Profile for Cell Phone Samsung Charging Electricity [Measurement by ZSW (1min)];2126
+Cell Phone Samsung Charging;Inner Device Heat Gains;Standby Generic 01 h 0 min 1% [Synthetic];681
+Cell Phone Samsung Charging;Reactive;Profile for Cell Phone Samsung Charging Reactive [Measurement by ZSW (1min)];2126
+Cell Phone Samsung Charging;Reactive;Standby Generic 01 h 0 min 1% [Synthetic];681
+Cellar Light (200W);Apparent;Hobby Room - light [Synthetic for Light Device];53
+Cellar Light (200W);Electricity;Hobby Room - light [Synthetic for Light Device];53
+Cellar Light (200W);Inner Device Heat Gains;Hobby Room - light [Synthetic for Light Device];53
+Cellar Light (200W);Reactive;Hobby Room - light [Synthetic for Light Device];53
+Children Room Light (200W);Apparent;Children's room - light [Synthetic for Light Device];637
+Children Room Light (200W);Apparent;Children's room 2 - light [Synthetic for Light Device];79
+Children Room Light (200W);Electricity;Children's room - light [Synthetic for Light Device];637
+Children Room Light (200W);Electricity;Children's room 2 - light [Synthetic for Light Device];79
+Children Room Light (200W);Inner Device Heat Gains;Children's room - light [Synthetic for Light Device];637
+Children Room Light (200W);Inner Device Heat Gains;Children's room 2 - light [Synthetic for Light Device];79
+Children Room Light (200W);Reactive;Children's room - light [Synthetic for Light Device];637
+Children Room Light (200W);Reactive;Children's room 2 - light [Synthetic for Light Device];79
+Circulation Pump / Grundfos Alpha Pro 25-40 180;Apparent;01 h 0 min 100% [Synthetic];12304
+Circulation Pump / Grundfos Alpha Pro 25-40 180;Electricity;01 h 0 min 100% [Synthetic];12304
+Circulation Pump / Grundfos Alpha Pro 25-40 180;Inner Device Heat Gains;01 h 0 min 100% [Synthetic];12304
+Circulation Pump / Grundfos Alpha Pro 25-40 180;Reactive;01 h 0 min 100% [Synthetic];12304
+Cleanser;None;01 h 0 min 100% [Synthetic];87
+Cloth Drying Rack;None;0 h 20 min 100% [Synthetic];82
+Coffee Machine / Braun Impression KF 600;Apparent;0 h 10 min 100% [Synthetic];64
+Coffee Machine / Braun Impression KF 600;Electricity;0 h 10 min 100% [Synthetic];64
+Coffee Machine / Braun Impression KF 600;Inner Device Heat Gains;0 h 10 min 100% [Synthetic];64
+Coffee Machine / Braun Impression KF 600;Reactive;0 h 10 min 100% [Synthetic];64
+Couch;None;01 h 0 min 100% [Synthetic];30
+Couch;None;02 h 0 min 100% [Synthetic];888
+Dishwasher NEFF SD6P1F (2011);Apparent;Profile for Dishwasher NEFF SD6P1F (2011) Apparent [Measurement by ZSW (1min)];136
+Dishwasher NEFF SD6P1F (2011);Cold Water;0 h 05 min 100% [Synthetic];136
+Dishwasher NEFF SD6P1F (2011);Electricity;Profile for Dishwasher NEFF SD6P1F (2011) Electricity [Measurement by ZSW (1min)];136
+Dishwasher NEFF SD6P1F (2011);Inner Device Heat Gains;Profile for Dishwasher NEFF SD6P1F (2011) Electricity [Measurement by ZSW (1min)];136
+Dishwasher NEFF SD6P1F (2011);Reactive;Profile for Dishwasher NEFF SD6P1F (2011) Reactive [Measurement by ZSW (1min)];136
+Drill Hammer / AEG BH 22 E;Apparent;0 h 05 min 100% [Synthetic];122
+Drill Hammer / AEG BH 22 E;Electricity;0 h 05 min 100% [Synthetic];122
+Drill Hammer / AEG BH 22 E;Inner Device Heat Gains;0 h 05 min 100% [Synthetic];122
+Drill Hammer / AEG BH 22 E;Reactive;0 h 05 min 100% [Synthetic];122
+Egg Cooker / Russell Hobbs 14048-56 Stylo;Apparent;0 h 05 min 100% [Synthetic];46
+Egg Cooker / Russell Hobbs 14048-56 Stylo;Electricity;0 h 05 min 100% [Synthetic];46
+Egg Cooker / Russell Hobbs 14048-56 Stylo;Inner Device Heat Gains;0 h 05 min 100% [Synthetic];46
+Egg Cooker / Russell Hobbs 14048-56 Stylo;Reactive;0 h 05 min 100% [Synthetic];46
+Electric Kettle / Petra WK288 1.5L;Apparent;Profile for Electric Kettle Petra WK288 1.5L Apparent [Measurement by ZSW (1min)];64
+Electric Kettle / Petra WK288 1.5L;Electricity;Profile for Electric Kettle Petra WK288 1.5L Electricity [Measurement by ZSW (1min)];64
+Electric Kettle / Petra WK288 1.5L;Inner Device Heat Gains;Profile for Electric Kettle Petra WK288 1.5L Electricity [Measurement by ZSW (1min)];64
+Electric Kettle / Petra WK288 1.5L;Reactive;Profile for Electric Kettle Petra WK288 1.5L Reactive [Measurement by ZSW (1min)];64
+Electric Kettle / Phillips Essential HD 4685/90 Schwarz;Apparent;0 h 03 min 100% [Synthetic];939
+Electric Kettle / Phillips Essential HD 4685/90 Schwarz;Electricity;0 h 03 min 100% [Synthetic];939
+Electric Kettle / Phillips Essential HD 4685/90 Schwarz;Inner Device Heat Gains;0 h 03 min 100% [Synthetic];939
+Electric Kettle / Phillips Essential HD 4685/90 Schwarz;Reactive;0 h 03 min 100% [Synthetic];939
+Electric Razor Braun Cruzer 5;Apparent;Profile for Electric Razor Braun Cruzer 5 Apparent [Measurement by ZSW (1min)];6680
+Electric Razor Braun Cruzer 5;Electricity;Profile for Electric Razor Braun Cruzer 5 Electricity [Measurement by ZSW (1min)];6680
+Electric Razor Braun Cruzer 5;Inner Device Heat Gains;Profile for Electric Razor Braun Cruzer 5 Electricity [Measurement by ZSW (1min)];6680
+Electric Razor Braun Cruzer 5;Reactive;Profile for Electric Razor Braun Cruzer 5 Reactive [Measurement by ZSW (1min)];6680
+Electric Toothbrush Dondodent Professional Clean;Apparent;Profile for Electric Toothbrush Dondodent Professional Clean Apparent [Measurement by ZSW (1min)];6336
+Electric Toothbrush Dondodent Professional Clean;Electricity;Profile for Electric Toothbrush Dondodent Professional Clean Electricity [Measurement by ZSW (1min)];6336
+Electric Toothbrush Dondodent Professional Clean;Inner Device Heat Gains;Profile for Electric Toothbrush Dondodent Professional Clean Electricity [Measurement by ZSW (1min)];6336
+Electric Toothbrush Dondodent Professional Clean;Reactive;Profile for Electric Toothbrush Dondodent Professional Clean Reactive [Measurement by ZSW (1min)];6336
+Elevator;Elevator Distance;Event Location - Home - Elevator [Synthetic for Elevator];280
+Elevator;Elevator Distance;Home - Event Location - Elevator [Synthetic for Elevator];280
+Elevator;Elevator Distance;Home - School - Elevator [Synthetic for Elevator];320
+Elevator;Elevator Distance;Home - Shopping - Elevator [Synthetic for Elevator];180
+Elevator;Elevator Distance;Home - Workplace - Elevator [Synthetic for Elevator];122
+Elevator;Elevator Distance;School - Home - Elevator [Synthetic for Elevator];321
+Elevator;Elevator Distance;Shopping - Home - Elevator [Synthetic for Elevator];179
+Elevator;Elevator Distance;Workplace - Home - Elevator [Synthetic for Elevator];122
+Food Slicer / DOMO Schneidemaschine DO521S;Apparent;0 h 01 min 100% [Synthetic];46
+Food Slicer / DOMO Schneidemaschine DO521S;Apparent;0 h 05 min 100% [Synthetic];345
+Food Slicer / DOMO Schneidemaschine DO521S;Electricity;0 h 01 min 100% [Synthetic];46
+Food Slicer / DOMO Schneidemaschine DO521S;Electricity;0 h 05 min 100% [Synthetic];345
+Food Slicer / DOMO Schneidemaschine DO521S;Inner Device Heat Gains;0 h 01 min 100% [Synthetic];46
+Food Slicer / DOMO Schneidemaschine DO521S;Inner Device Heat Gains;0 h 05 min 100% [Synthetic];345
+Food Slicer / DOMO Schneidemaschine DO521S;Reactive;0 h 01 min 100% [Synthetic];46
+Food Slicer / DOMO Schneidemaschine DO521S;Reactive;0 h 05 min 100% [Synthetic];345
+Freezer Liebherr Premium no Frost 2358 (2011);Apparent;0 h 01 min 100% [Synthetic];46
+Freezer Liebherr Premium no Frost 2358 (2011);Apparent;Profile for Freezer Liebherr Premium no Frost 2358 (2011) Apparent [Measurement by ZSW (1min)];1404
+Freezer Liebherr Premium no Frost 2358 (2011);Electricity;0 h 01 min 100% [Synthetic];46
+Freezer Liebherr Premium no Frost 2358 (2011);Electricity;Profile for Freezer Liebherr Premium no Frost 2358 (2011) Electricity [Measurement by ZSW (1min)];1404
+Freezer Liebherr Premium no Frost 2358 (2011);Inner Device Heat Gains;0 h 01 min 100% [Synthetic];46
+Freezer Liebherr Premium no Frost 2358 (2011);Inner Device Heat Gains;Profile for Freezer Liebherr Premium no Frost 2358 (2011) Electricity [Measurement by ZSW (1min)];1404
+Freezer Liebherr Premium no Frost 2358 (2011);Reactive;0 h 01 min 100% [Synthetic];46
+Freezer Liebherr Premium no Frost 2358 (2011);Reactive;Profile for Freezer Liebherr Premium no Frost 2358 (2011) Reactive [Measurement by ZSW (1min)];1404
+Generic Music Instrument without Electricity;None;01 h 0 min 100% [Synthetic];697
+Grill;None;02 h 0 min 100% [Synthetic];43
+Hair Dryer Babyliss 2000;Apparent;0 h 20 min 100% [Synthetic];171
+Hair Dryer Babyliss 2000;Apparent;Profile for Hair Dryer Babyliss Pro 2000 Apparent [Measured 1 min Resolution (TUC)];168
+Hair Dryer Babyliss 2000;Electricity;0 h 20 min 100% [Synthetic];171
+Hair Dryer Babyliss 2000;Electricity;Profile for Hair Dryer Babyliss Pro 2000 Electricity [Measured 1 min Resolution (TUC)];168
+Hair Dryer Babyliss 2000;Inner Device Heat Gains;0 h 20 min 100% [Synthetic];171
+Hair Dryer Babyliss 2000;Inner Device Heat Gains;Profile for Hair Dryer Babyliss Pro 2000 Electricity [Measured 1 min Resolution (TUC)];168
+Hair Dryer Babyliss 2000;Reactive;0 h 20 min 100% [Synthetic];171
+Hair Dryer Babyliss 2000;Reactive;Profile for Hair Dryer Babyliss Pro 2000 Electricity [Measured 1 min Resolution (TUC)];168
+Hand-held Circular Saw / Bosch PKS 66 AF;Apparent;0 h 05 min 100% [Synthetic];61
+Hand-held Circular Saw / Bosch PKS 66 AF;Electricity;0 h 05 min 100% [Synthetic];61
+Hand-held Circular Saw / Bosch PKS 66 AF;Inner Device Heat Gains;0 h 05 min 100% [Synthetic];61
+Hand-held Circular Saw / Bosch PKS 66 AF;Reactive;0 h 05 min 100% [Synthetic];61
+Indoor Swimming Pool;None;02 h 0 min 100% [Synthetic];134
+Kitchen Light (100W);Apparent;Kitchen - light [Synthetic for Light Device];1108
+Kitchen Light (100W);Electricity;Kitchen - light [Synthetic for Light Device];1108
+Kitchen Light (100W);Inner Device Heat Gains;Kitchen - light [Synthetic for Light Device];1108
+Kitchen Light (100W);Reactive;Kitchen - light [Synthetic for Light Device];1108
+Kitchen Sink (5L/min);Cold Water;0 h 01 min 100% [Synthetic];62
+Kitchen Sink (5L/min);Warm Water;0 h 01 min 25% [unknown];142
+Kitchen Stove / Bauknecht Heko 750 PT Kitchen stove front right-semi aktiv;Apparent;Cooking profile II 40 min [Synthetic];2
+Kitchen Stove / Bauknecht Heko 750 PT Kitchen stove front right-semi aktiv;Apparent;Cooking profile III 1h 40 min [Synthetic];2
+Kitchen Stove / Bauknecht Heko 750 PT Kitchen stove front right-semi aktiv;Electricity;Cooking profile II 40 min [Synthetic];2
+Kitchen Stove / Bauknecht Heko 750 PT Kitchen stove front right-semi aktiv;Electricity;Cooking profile III 1h 40 min [Synthetic];2
+Kitchen Stove / Bauknecht Heko 750 PT Kitchen stove front right-semi aktiv;Inner Device Heat Gains;Cooking profile II 40 min [Synthetic];2
+Kitchen Stove / Bauknecht Heko 750 PT Kitchen stove front right-semi aktiv;Inner Device Heat Gains;Cooking profile III 1h 40 min [Synthetic];2
+Kitchen Stove / Bauknecht Heko 750 PT Kitchen stove front right-semi aktiv;Reactive;Cooking profile II 40 min [Synthetic];2
+Kitchen Stove / Bauknecht Heko 750 PT Kitchen stove front right-semi aktiv;Reactive;Cooking profile III 1h 40 min [Synthetic];2
+Kitchen Stove / Bauknecht Heko 750 PT Kitchen stove left hind - full power;Apparent;Cooking profile II 40 min [Synthetic];2
+Kitchen Stove / Bauknecht Heko 750 PT Kitchen stove left hind - full power;Apparent;Cooking profile III 1h 40 min [Synthetic];2
+Kitchen Stove / Bauknecht Heko 750 PT Kitchen stove left hind - full power;Electricity;Cooking profile II 40 min [Synthetic];2
+Kitchen Stove / Bauknecht Heko 750 PT Kitchen stove left hind - full power;Electricity;Cooking profile III 1h 40 min [Synthetic];2
+Kitchen Stove / Bauknecht Heko 750 PT Kitchen stove left hind - full power;Inner Device Heat Gains;Cooking profile II 40 min [Synthetic];2
+Kitchen Stove / Bauknecht Heko 750 PT Kitchen stove left hind - full power;Inner Device Heat Gains;Cooking profile III 1h 40 min [Synthetic];2
+Kitchen Stove / Bauknecht Heko 750 PT Kitchen stove left hind - full power;Reactive;Cooking profile II 40 min [Synthetic];2
+Kitchen Stove / Bauknecht Heko 750 PT Kitchen stove left hind - full power;Reactive;Cooking profile III 1h 40 min [Synthetic];2
+Kitchen Stove / Bauknecht Heko 750 PT Kitchen-stove right hind;Apparent;0 h 30 min 100% [Synthetic];321
+Kitchen Stove / Bauknecht Heko 750 PT Kitchen-stove right hind;Apparent;01 h 0 min 30% [Synthetic];345
+Kitchen Stove / Bauknecht Heko 750 PT Kitchen-stove right hind;Apparent;Cooking profile II 40 min [Synthetic];2
+Kitchen Stove / Bauknecht Heko 750 PT Kitchen-stove right hind;Apparent;Cooking profile III 1h 40 min [Synthetic];2
+Kitchen Stove / Bauknecht Heko 750 PT Kitchen-stove right hind;Electricity;0 h 30 min 100% [Synthetic];321
+Kitchen Stove / Bauknecht Heko 750 PT Kitchen-stove right hind;Electricity;01 h 0 min 30% [Synthetic];345
+Kitchen Stove / Bauknecht Heko 750 PT Kitchen-stove right hind;Electricity;Cooking profile II 40 min [Synthetic];2
+Kitchen Stove / Bauknecht Heko 750 PT Kitchen-stove right hind;Electricity;Cooking profile III 1h 40 min [Synthetic];2
+Kitchen Stove / Bauknecht Heko 750 PT Kitchen-stove right hind;Inner Device Heat Gains;0 h 30 min 100% [Synthetic];321
+Kitchen Stove / Bauknecht Heko 750 PT Kitchen-stove right hind;Inner Device Heat Gains;01 h 0 min 30% [Synthetic];345
+Kitchen Stove / Bauknecht Heko 750 PT Kitchen-stove right hind;Inner Device Heat Gains;Cooking profile II 40 min [Synthetic];2
+Kitchen Stove / Bauknecht Heko 750 PT Kitchen-stove right hind;Inner Device Heat Gains;Cooking profile III 1h 40 min [Synthetic];2
+Kitchen Stove / Bauknecht Heko 750 PT Kitchen-stove right hind;Reactive;0 h 30 min 100% [Synthetic];321
+Kitchen Stove / Bauknecht Heko 750 PT Kitchen-stove right hind;Reactive;01 h 0 min 30% [Synthetic];345
+Kitchen Stove / Bauknecht Heko 750 PT Kitchen-stove right hind;Reactive;Cooking profile II 40 min [Synthetic];2
+Kitchen Stove / Bauknecht Heko 750 PT Kitchen-stove right hind;Reactive;Cooking profile III 1h 40 min [Synthetic];2
+Kitchen radio / AEG KRC 4323 CD;Apparent;02 h 0 min 100% [Synthetic];46
+Kitchen radio / AEG KRC 4323 CD;Apparent;Standby TV / Receiver (Substitute) 1 h 0 min 9% [Synthetic];8766
+Kitchen radio / AEG KRC 4323 CD;Electricity;02 h 0 min 100% [Synthetic];46
+Kitchen radio / AEG KRC 4323 CD;Electricity;Standby TV / Receiver (Substitute) 1 h 0 min 9% [Synthetic];8766
+Kitchen radio / AEG KRC 4323 CD;Inner Device Heat Gains;02 h 0 min 100% [Synthetic];46
+Kitchen radio / AEG KRC 4323 CD;Inner Device Heat Gains;Standby TV / Receiver (Substitute) 1 h 0 min 9% [Synthetic];8766
+Kitchen radio / AEG KRC 4323 CD;Reactive;02 h 0 min 100% [Synthetic];46
+Kitchen radio / AEG KRC 4323 CD;Reactive;Standby TV / Receiver (Substitute) 1 h 0 min 9% [Synthetic];8766
+Laptop Siemens Amilio from 2005;Apparent;Profile for Siemens Amilio 2005 Apparent [Measured 1 min Resolution (TUC)];1212
+Laptop Siemens Amilio from 2005;Apparent;Standby Generic 1h 0 min 10% [Synthetic];8761
+Laptop Siemens Amilio from 2005;Electricity;Profile for Siemens Amilio 2005 Electricity [Measured 1 min Resolution (TUC)];1212
+Laptop Siemens Amilio from 2005;Electricity;Standby Generic 1h 0 min 10% [Synthetic];8761
+Laptop Siemens Amilio from 2005;Inner Device Heat Gains;Profile for Siemens Amilio 2005 Electricity [Measured 1 min Resolution (TUC)];1212
+Laptop Siemens Amilio from 2005;Inner Device Heat Gains;Standby Generic 1h 0 min 10% [Synthetic];8761
+Laptop Siemens Amilio from 2005;Reactive;Profile for Siemens Amilio 2005 Electricity [Measured 1 min Resolution (TUC)];1212
+Laptop Siemens Amilio from 2005;Reactive;Standby Generic 1h 0 min 10% [Synthetic];8761
+Lawn Mower / Sabo 32-EL;Apparent;0 h 30 min 100% [Synthetic];28
+Lawn Mower / Sabo 32-EL;Electricity;0 h 30 min 100% [Synthetic];28
+Lawn Mower / Sabo 32-EL;Inner Device Heat Gains;0 h 30 min 100% [Synthetic];28
+Lawn Mower / Sabo 32-EL;Reactive;0 h 30 min 100% [Synthetic];28
+Living Room Light (100W);Apparent;Living room - light [Synthetic for Light Device];1785
+Living Room Light (100W);Electricity;Living room - light [Synthetic for Light Device];1785
+Living Room Light (100W);Inner Device Heat Gains;Living room - light [Synthetic for Light Device];1785
+Living Room Light (100W);Reactive;Living room - light [Synthetic for Light Device];1785
+Magazine;None;01 h 0 min 100% [Synthetic];14
+Microsoft Xbox 360;Apparent;01 h 0 min 100% [Synthetic];138
+Microsoft Xbox 360;Apparent;Standby Xbox 01 h 0 min 3% [Synthetic];8758
+Microsoft Xbox 360;Electricity;01 h 0 min 100% [Synthetic];138
+Microsoft Xbox 360;Electricity;Standby Xbox 01 h 0 min 3% [Synthetic];8758
+Microsoft Xbox 360;Inner Device Heat Gains;01 h 0 min 100% [Synthetic];138
+Microsoft Xbox 360;Inner Device Heat Gains;Standby Xbox 01 h 0 min 3% [Synthetic];8758
+Microsoft Xbox 360;Reactive;01 h 0 min 100% [Synthetic];138
+Microsoft Xbox 360;Reactive;Standby Xbox 01 h 0 min 3% [Synthetic];8758
+Microwave / Panasonic NN 5259;Apparent;0 h 01 min 50% [Synthetic];2
+Microwave / Panasonic NN 5259;Apparent;Standby Generic 01 h 0 min 1% [Synthetic];8771
+Microwave / Panasonic NN 5259;Electricity;0 h 01 min 50% [Synthetic];2
+Microwave / Panasonic NN 5259;Electricity;Standby Generic 01 h 0 min 1% [Synthetic];8771
+Microwave / Panasonic NN 5259;Inner Device Heat Gains;0 h 01 min 50% [Synthetic];2
+Microwave / Panasonic NN 5259;Inner Device Heat Gains;Standby Generic 01 h 0 min 1% [Synthetic];8771
+Microwave / Panasonic NN 5259;Reactive;0 h 01 min 50% [Synthetic];2
+Microwave / Panasonic NN 5259;Reactive;Standby Generic 01 h 0 min 1% [Synthetic];8771
+Miele DA 61;Apparent;01 h 0 min 100% [Synthetic];666
+Miele DA 61;Electricity;01 h 0 min 100% [Synthetic];666
+Miele DA 61;Inner Device Heat Gains;01 h 0 min 100% [Synthetic];666
+Miele DA 61;Reactive;01 h 0 min 100% [Synthetic];666
+Miele T 7744 C;Apparent;Dryer Profile 2h [Measured 1 min resolution];206
+Miele T 7744 C;Electricity;Dryer Profile 2h [Measured 1 min resolution];206
+Miele T 7744 C;Inner Device Heat Gains;Dryer Profile 2h [Measured 1 min resolution];206
+Miele T 7744 C;Reactive;Dryer Profile 2h [Measured 1 min resolution];206
+Moulinex electronic 833;Apparent;0 h 10 min 100% [Synthetic];46
+Moulinex electronic 833;Electricity;0 h 10 min 100% [Synthetic];46
+Moulinex electronic 833;Inner Device Heat Gains;0 h 10 min 100% [Synthetic];46
+Moulinex electronic 833;Reactive;0 h 10 min 100% [Synthetic];46
+Nespresso Coffee Machine, Single Cup;Apparent;Profile for Nespresso_single Apparent [Measurement by ZSW (1min)];92
+Nespresso Coffee Machine, Single Cup;Electricity;Profile for Nespresso_single Electricity [Measurement by ZSW (1min)];92
+Nespresso Coffee Machine, Single Cup;Inner Device Heat Gains;Profile for Nespresso_single Electricity [Measurement by ZSW (1min)];92
+Nespresso Coffee Machine, Single Cup;Reactive;Profile for Nespresso_single Reactive [Measurement by ZSW (1min)];92
+Newspaper;None;0 h 30 min 100% [Synthetic];616
+Nintendo Wii;Apparent;01 h 0 min 100% [Synthetic];138
+Nintendo Wii;Apparent;Standby Wii 01 h 0 min 12% [Synthetic];8784
+Nintendo Wii;Electricity;01 h 0 min 100% [Synthetic];138
+Nintendo Wii;Electricity;Standby Wii 01 h 0 min 12% [Synthetic];8784
+Nintendo Wii;Inner Device Heat Gains;01 h 0 min 100% [Synthetic];138
+Nintendo Wii;Inner Device Heat Gains;Standby Wii 01 h 0 min 12% [Synthetic];8784
+Nintendo Wii;Reactive;01 h 0 min 100% [Synthetic];138
+Nintendo Wii;Reactive;Standby Wii 01 h 0 min 12% [Synthetic];8784
+Office;None;09 h 0 min 100% [Synthetic];122
+Osram Light Bulb Classic A 60W;Apparent;01 h 0 min 100% [Synthetic];14
+Osram Light Bulb Classic A 60W;Electricity;01 h 0 min 100% [Synthetic];14
+Osram Light Bulb Classic A 60W;Inner Device Heat Gains;01 h 0 min 100% [Synthetic];14
+Osram Light Bulb Classic A 60W;Reactive;01 h 0 min 100% [Synthetic];14
+Outdoor Swimming Pool;None;06 h 0 min 100% [Synthetic];35
+Oven / AEG B 33512-5-M;Apparent;Backing profile III 1h 15 min [Synthetic];2
+Oven / AEG B 33512-5-M;Electricity;Backing profile III 1h 15 min [Synthetic];2
+Oven / AEG B 33512-5-M;Inner Device Heat Gains;Backing profile III 1h 15 min [Synthetic];2
+Oven / AEG B 33512-5-M;Reactive;Backing profile III 1h 15 min [Synthetic];2
+PC / Acer Aspire M3640;Apparent;01 h 30 min 100% [Synthetic];405
+PC / Acer Aspire M3640;Apparent;Standby PC 01 h 0 min 4% [Synthetic];8783
+PC / Acer Aspire M3640;Electricity;01 h 30 min 100% [Synthetic];405
+PC / Acer Aspire M3640;Electricity;Standby PC 01 h 0 min 4% [Synthetic];8783
+PC / Acer Aspire M3640;Inner Device Heat Gains;01 h 30 min 100% [Synthetic];405
+PC / Acer Aspire M3640;Inner Device Heat Gains;Standby PC 01 h 0 min 4% [Synthetic];8783
+PC / Acer Aspire M3640;Reactive;01 h 30 min 100% [Synthetic];405
+PC / Acer Aspire M3640;Reactive;Standby PC 01 h 0 min 4% [Synthetic];8783
+PC Monitor / Fujitsu Siemens Scaleoview D19-1;Apparent;01 h 30 min 100% [Synthetic];405
+PC Monitor / Fujitsu Siemens Scaleoview D19-1;Apparent;Standby PC 01 h 0 min 4% [Synthetic];8757
+PC Monitor / Fujitsu Siemens Scaleoview D19-1;Electricity;01 h 30 min 100% [Synthetic];405
+PC Monitor / Fujitsu Siemens Scaleoview D19-1;Electricity;Standby PC 01 h 0 min 4% [Synthetic];8757
+PC Monitor / Fujitsu Siemens Scaleoview D19-1;Inner Device Heat Gains;01 h 30 min 100% [Synthetic];405
+PC Monitor / Fujitsu Siemens Scaleoview D19-1;Inner Device Heat Gains;Standby PC 01 h 0 min 4% [Synthetic];8757
+PC Monitor / Fujitsu Siemens Scaleoview D19-1;Reactive;01 h 30 min 100% [Synthetic];405
+PC Monitor / Fujitsu Siemens Scaleoview D19-1;Reactive;Standby PC 01 h 0 min 4% [Synthetic];8757
+Polishing Machine / Flex L 602 VR;Apparent;0 h 05 min 100% [Synthetic];61
+Polishing Machine / Flex L 602 VR;Electricity;0 h 05 min 100% [Synthetic];61
+Polishing Machine / Flex L 602 VR;Inner Device Heat Gains;0 h 05 min 100% [Synthetic];61
+Polishing Machine / Flex L 602 VR;Reactive;0 h 05 min 100% [Synthetic];61
+Router O2 Box 6431;Apparent;Profile for Router O2 Box 6431 Apparent [Measurement by ZSW (1min)];9050
+Router O2 Box 6431;Electricity;Profile for Router O2 Box 6431 Electricity [Measurement by ZSW (1min)];9050
+Router O2 Box 6431;Inner Device Heat Gains;Profile for Router O2 Box 6431 Electricity [Measurement by ZSW (1min)];9050
+Router O2 Box 6431;Reactive;Profile for Router O2 Box 6431 Reactive [Measurement by ZSW (1min)];9050
+SAT Receiver / Kathrein UFS913;Apparent;0 h 15 min 100% [Synthetic];166
+SAT Receiver / Kathrein UFS913;Apparent;01 h 0 min 100% [Synthetic];499
+SAT Receiver / Kathrein UFS913;Apparent;02 h 0 min 100% [Synthetic];673
+SAT Receiver / Kathrein UFS913;Apparent;Standby TV / Receiver (Substitute) 1 h 0 min 9% [Synthetic];8777
+SAT Receiver / Kathrein UFS913;Electricity;0 h 15 min 100% [Synthetic];166
+SAT Receiver / Kathrein UFS913;Electricity;01 h 0 min 100% [Synthetic];499
+SAT Receiver / Kathrein UFS913;Electricity;02 h 0 min 100% [Synthetic];673
+SAT Receiver / Kathrein UFS913;Electricity;Standby TV / Receiver (Substitute) 1 h 0 min 9% [Synthetic];8777
+SAT Receiver / Kathrein UFS913;Inner Device Heat Gains;0 h 15 min 100% [Synthetic];166
+SAT Receiver / Kathrein UFS913;Inner Device Heat Gains;01 h 0 min 100% [Synthetic];499
+SAT Receiver / Kathrein UFS913;Inner Device Heat Gains;02 h 0 min 100% [Synthetic];673
+SAT Receiver / Kathrein UFS913;Inner Device Heat Gains;Standby TV / Receiver (Substitute) 1 h 0 min 9% [Synthetic];8777
+SAT Receiver / Kathrein UFS913;Reactive;0 h 15 min 100% [Synthetic];166
+SAT Receiver / Kathrein UFS913;Reactive;01 h 0 min 100% [Synthetic];499
+SAT Receiver / Kathrein UFS913;Reactive;02 h 0 min 100% [Synthetic];673
+SAT Receiver / Kathrein UFS913;Reactive;Standby TV / Receiver (Substitute) 1 h 0 min 9% [Synthetic];8777
+School (with holidays);None;0 h 01 min 100% [Synthetic];284
+Schoolbook;None;01 h 0 min 100% [Synthetic];338
+Shopping Cart;None;04 h 0 min 100% [Synthetic];78
+Shower 12,5 L/min;Warm Water;Shower Profile for Men 9 min [Synthetic];948
+Shower 12,5 L/min;Warm Water;Shower Profile for Women 14 min [Synthetic];684
+Siemens Fridge from 1987 (unknown type);Apparent;Profile for Siemens Fridge from 1987 (unknown type) Apparent [Measured 1 min Resolution (TUC)];2204
+Siemens Fridge from 1987 (unknown type);Electricity;Profile for Siemens Fridge from 1987 (unknown type) Electricity [Measured 1 min Resolution (TUC)];2204
+Siemens Fridge from 1987 (unknown type);Inner Device Heat Gains;Profile for Siemens Fridge from 1987 (unknown type) Electricity [Measured 1 min Resolution (TUC)];2204
+Siemens Fridge from 1987 (unknown type);Reactive;Profile for Siemens Fridge from 1987 (unknown type) Electricity [Measured 1 min Resolution (TUC)];2204
+Single Stove Plate;Apparent;Profile for Stove Plate 15 min Cooking Cycle Apparent [Measurement by ZSW (1min)];2
+Single Stove Plate;Apparent;Profile for Stove Plate 1h 40 min Cooking Cycle Apparent [Measurement by ZSW (1min)];2
+Single Stove Plate;Apparent;Profile for Stove Plate 1h Cooking Cycle Apparent [Measurement by ZSW (1min)];345
+Single Stove Plate;Apparent;Profile for Stove Plate 30 min Cooking Cycle Apparent [Measurement by ZSW (1min)];1152
+Single Stove Plate;Electricity;Profile for Stove Plate 15 min Cooking Cycle Electricity [Measurement by ZSW (1min)];2
+Single Stove Plate;Electricity;Profile for Stove Plate 1h 40 min Cooking Cycle Electricity [Measurement by ZSW (1min)];2
+Single Stove Plate;Electricity;Profile for Stove Plate 1h Cooking Cycle Electricity [Measurement by ZSW (1min)];345
+Single Stove Plate;Electricity;Profile for Stove Plate 30 min Cooking Cycle Electricity [Measurement by ZSW (1min)];1152
+Single Stove Plate;Inner Device Heat Gains;Profile for Stove Plate 15 min Cooking Cycle Electricity [Measurement by ZSW (1min)];2
+Single Stove Plate;Inner Device Heat Gains;Profile for Stove Plate 1h 40 min Cooking Cycle Electricity [Measurement by ZSW (1min)];2
+Single Stove Plate;Inner Device Heat Gains;Profile for Stove Plate 1h Cooking Cycle Electricity [Measurement by ZSW (1min)];345
+Single Stove Plate;Inner Device Heat Gains;Profile for Stove Plate 30 min Cooking Cycle Electricity [Measurement by ZSW (1min)];1152
+Single Stove Plate;Reactive;Profile for Stove Plate 15 min Cooking Cycle Reactive [Measurement by ZSW (1min)];2
+Single Stove Plate;Reactive;Profile for Stove Plate 1h 40 min Cooking Cycle Reactive [Measurement by ZSW (1min)];2
+Single Stove Plate;Reactive;Profile for Stove Plate 1h Cooking Cycle Reactive [Measurement by ZSW (1min)];345
+Single Stove Plate;Reactive;Profile for Stove Plate 30 min Cooking Cycle Reactive [Measurement by ZSW (1min)];1152
+Skil 483 H;Apparent;0 h 05 min 100% [Synthetic];61
+Skil 483 H;Electricity;0 h 05 min 100% [Synthetic];61
+Skil 483 H;Inner Device Heat Gains;0 h 05 min 100% [Synthetic];61
+Skil 483 H;Reactive;0 h 05 min 100% [Synthetic];61
+Snow Shovel;None;0 h 15 min 100% [Synthetic];17
+Space Heating;Space Heating;Heating profile - Internal: 0 External:  -4320() [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 10080 External:  5760(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 100800 External:  96480(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 102240 External:  97920(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 103680 External:  99360(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 105120 External:  100800(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 106560 External:  102240(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 108000 External:  103680(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 109440 External:  105120(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 110880 External:  106560(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 112320 External:  108000(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 113760 External:  109440(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 11520 External:  7200(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 115200 External:  110880(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 116640 External:  112320(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 118080 External:  113760(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 119520 External:  115200(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 120960 External:  116640(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 122400 External:  118080(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 123840 External:  119520(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 125280 External:  120960(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 126720 External:  122400(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 128160 External:  123840(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 12960 External:  8640(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 129600 External:  125280(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 131040 External:  126720(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 132480 External:  128160(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 133920 External:  129600(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 135360 External:  131040(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 136800 External:  132480(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 138240 External:  133920(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 139680 External:  135360(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 141120 External:  136800(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 142560 External:  138240(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 1440 External:  -2880() [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 14400 External:  10080(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 144000 External:  139680(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 145440 External:  141120(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 146880 External:  142560(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 148320 External:  144000(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 149760 External:  145440(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 151200 External:  146880(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 152640 External:  148320(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 154080 External:  149760(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 155520 External:  151200(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 156960 External:  152640(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 15840 External:  11520(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 158400 External:  154080(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 159840 External:  155520(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 161280 External:  156960(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 162720 External:  158400(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 164160 External:  159840(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 165600 External:  161280(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 167040 External:  162720(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 168480 External:  164160(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 169920 External:  165600(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 171360 External:  167040(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 17280 External:  12960(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 172800 External:  168480(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 174240 External:  169920(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 175680 External:  171360(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 177120 External:  172800(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 178560 External:  174240(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 180000 External:  175680(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 181440 External:  177120(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 182880 External:  178560(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 184320 External:  180000(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 185760 External:  181440(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 18720 External:  14400(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 187200 External:  182880(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 188640 External:  184320(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 190080 External:  185760(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 191520 External:  187200(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 192960 External:  188640(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 194400 External:  190080(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 195840 External:  191520(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 197280 External:  192960(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 198720 External:  194400(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 200160 External:  195840(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 20160 External:  15840(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 201600 External:  197280(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 203040 External:  198720(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 204480 External:  200160(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 205920 External:  201600(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 207360 External:  203040(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 208800 External:  204480(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 210240 External:  205920(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 211680 External:  207360(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 213120 External:  208800(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 214560 External:  210240(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 21600 External:  17280(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 216000 External:  211680(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 217440 External:  213120(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 218880 External:  214560(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 220320 External:  216000(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 221760 External:  217440(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 223200 External:  218880(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 224640 External:  220320(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 226080 External:  221760(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 227520 External:  223200(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 228960 External:  224640(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 23040 External:  18720(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 230400 External:  226080(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 231840 External:  227520(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 233280 External:  228960(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 234720 External:  230400(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 236160 External:  231840(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 237600 External:  233280(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 239040 External:  234720(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 240480 External:  236160(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 241920 External:  237600(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 243360 External:  239040(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 24480 External:  20160(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 244800 External:  240480(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 246240 External:  241920(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 247680 External:  243360(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 249120 External:  244800(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 250560 External:  246240(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 252000 External:  247680(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 253440 External:  249120(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 254880 External:  250560(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 256320 External:  252000(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 257760 External:  253440(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 25920 External:  21600(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 259200 External:  254880(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 260640 External:  256320(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 262080 External:  257760(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 263520 External:  259200(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 264960 External:  260640(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 266400 External:  262080(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 267840 External:  263520(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 269280 External:  264960(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 270720 External:  266400(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 272160 External:  267840(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 27360 External:  23040(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 273600 External:  269280(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 275040 External:  270720(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 276480 External:  272160(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 277920 External:  273600(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 279360 External:  275040(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 280800 External:  276480(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 282240 External:  277920(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 283680 External:  279360(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 285120 External:  280800(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 286560 External:  282240(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 2880 External:  -1440() [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 28800 External:  24480(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 288000 External:  283680(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 289440 External:  285120(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 290880 External:  286560(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 292320 External:  288000(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 293760 External:  289440(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 295200 External:  290880(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 296640 External:  292320(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 298080 External:  293760(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 299520 External:  295200(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 300960 External:  296640(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 30240 External:  25920(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 302400 External:  298080(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 303840 External:  299520(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 305280 External:  300960(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 306720 External:  302400(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 308160 External:  303840(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 309600 External:  305280(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 311040 External:  306720(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 312480 External:  308160(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 313920 External:  309600(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 315360 External:  311040(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 31680 External:  27360(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 316800 External:  312480(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 318240 External:  313920(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 319680 External:  315360(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 321120 External:  316800(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 322560 External:  318240(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 324000 External:  319680(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 325440 External:  321120(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 326880 External:  322560(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 328320 External:  324000(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 329760 External:  325440(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 33120 External:  28800(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 331200 External:  326880(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 332640 External:  328320(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 334080 External:  329760(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 335520 External:  331200(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 336960 External:  332640(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 338400 External:  334080(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 339840 External:  335520(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 341280 External:  336960(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 342720 External:  338400(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 344160 External:  339840(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 34560 External:  30240(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 345600 External:  341280(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 347040 External:  342720(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 348480 External:  344160(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 349920 External:  345600(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 351360 External:  347040(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 352800 External:  348480(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 354240 External:  349920(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 355680 External:  351360(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 357120 External:  352800(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 358560 External:  354240(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 36000 External:  31680(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 360000 External:  355680(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 361440 External:  357120(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 362880 External:  358560(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 364320 External:  360000(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 365760 External:  361440(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 367200 External:  362880(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 368640 External:  364320(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 370080 External:  365760(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 371520 External:  367200(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 372960 External:  368640(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 37440 External:  33120(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 374400 External:  370080(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 375840 External:  371520(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 377280 External:  372960(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 378720 External:  374400(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 380160 External:  375840(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 381600 External:  377280(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 383040 External:  378720(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 384480 External:  380160(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 385920 External:  381600(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 387360 External:  383040(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 38880 External:  34560(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 388800 External:  384480(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 390240 External:  385920(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 391680 External:  387360(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 393120 External:  388800(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 394560 External:  390240(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 396000 External:  391680(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 397440 External:  393120(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 398880 External:  394560(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 400320 External:  396000(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 401760 External:  397440(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 40320 External:  36000(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 403200 External:  398880(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 404640 External:  400320(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 406080 External:  401760(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 407520 External:  403200(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 408960 External:  404640(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 410400 External:  406080(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 411840 External:  407520(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 413280 External:  408960(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 414720 External:  410400(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 416160 External:  411840(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 41760 External:  37440(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 417600 External:  413280(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 419040 External:  414720(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 420480 External:  416160(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 421920 External:  417600(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 423360 External:  419040(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 424800 External:  420480(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 426240 External:  421920(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 427680 External:  423360(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 429120 External:  424800(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 430560 External:  426240(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 4320 External:  0(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 43200 External:  38880(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 432000 External:  427680(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 433440 External:  429120(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 434880 External:  430560(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 436320 External:  432000(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 437760 External:  433440(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 439200 External:  434880(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 440640 External:  436320(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 442080 External:  437760(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 443520 External:  439200(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 444960 External:  440640(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 44640 External:  40320(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 446400 External:  442080(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 447840 External:  443520(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 449280 External:  444960(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 450720 External:  446400(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 452160 External:  447840(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 453600 External:  449280(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 455040 External:  450720(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 456480 External:  452160(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 457920 External:  453600(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 459360 External:  455040(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 46080 External:  41760(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 460800 External:  456480(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 462240 External:  457920(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 463680 External:  459360(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 465120 External:  460800(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 466560 External:  462240(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 468000 External:  463680(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 469440 External:  465120(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 470880 External:  466560(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 472320 External:  468000(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 473760 External:  469440(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 47520 External:  43200(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 475200 External:  470880(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 476640 External:  472320(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 478080 External:  473760(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 479520 External:  475200(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 480960 External:  476640(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 482400 External:  478080(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 483840 External:  479520(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 485280 External:  480960(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 486720 External:  482400(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 488160 External:  483840(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 48960 External:  44640(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 489600 External:  485280(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 491040 External:  486720(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 492480 External:  488160(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 493920 External:  489600(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 495360 External:  491040(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 496800 External:  492480(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 498240 External:  493920(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 499680 External:  495360(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 501120 External:  496800(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 502560 External:  498240(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 50400 External:  46080(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 504000 External:  499680(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 505440 External:  501120(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 506880 External:  502560(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 508320 External:  504000(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 509760 External:  505440(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 511200 External:  506880(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 512640 External:  508320(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 514080 External:  509760(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 515520 External:  511200(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 516960 External:  512640(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 51840 External:  47520(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 518400 External:  514080(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 519840 External:  515520(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 521280 External:  516960(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 522720 External:  518400(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 524160 External:  519840(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 525600 External:  521280(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 527040 External:  522720(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 528480 External:  524160(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 53280 External:  48960(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 54720 External:  50400(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 56160 External:  51840(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 5760 External:  1440(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 57600 External:  53280(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 59040 External:  54720(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 60480 External:  56160(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 61920 External:  57600(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 63360 External:  59040(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 64800 External:  60480(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 66240 External:  61920(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 67680 External:  63360(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 69120 External:  64800(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 70560 External:  66240(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 7200 External:  2880(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 72000 External:  67680(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 73440 External:  69120(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 74880 External:  70560(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 76320 External:  72000(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 77760 External:  73440(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 79200 External:  74880(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 80640 External:  76320(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 82080 External:  77760(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 83520 External:  79200(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 84960 External:  80640(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 8640 External:  4320(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 86400 External:  82080(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 87840 External:  83520(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 89280 External:  84960(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 90720 External:  86400(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 92160 External:  87840(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 93600 External:  89280(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 95040 External:  90720(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 96480 External:  92160(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 97920 External:  93600(D) [Calculated from Heating Degree Days];1
+Space Heating;Space Heating;Heating profile - Internal: 99360 External:  95040(D) [Calculated from Heating Degree Days];1
+Steam Iron / Phillips HI 515;Apparent;0 h 45 min 100% [Synthetic];58
+Steam Iron / Phillips HI 515;Apparent;01 h 0 min 100% [Synthetic];86
+Steam Iron / Phillips HI 515;Electricity;0 h 45 min 100% [Synthetic];58
+Steam Iron / Phillips HI 515;Electricity;01 h 0 min 100% [Synthetic];86
+Steam Iron / Phillips HI 515;Inner Device Heat Gains;0 h 45 min 100% [Synthetic];58
+Steam Iron / Phillips HI 515;Inner Device Heat Gains;01 h 0 min 100% [Synthetic];86
+Steam Iron / Phillips HI 515;Reactive;0 h 45 min 100% [Synthetic];58
+Steam Iron / Phillips HI 515;Reactive;01 h 0 min 100% [Synthetic];86
+Summer Camp;None;0 h 01 min 100% [Synthetic];2
+Sunbed;None;01 h 30 min 100% [Synthetic];50
+Sunbed 2;None;01 h 30 min 100% [Synthetic];46
+Supermarket;None;01 h 30 min 100% [Synthetic];110
+TV Medion MD20123_DE_A;Apparent;Profile for TV Medion MD20123_DE_A 1,5h Apparent [Measurement by ZSW (1min)];328
+TV Medion MD20123_DE_A;Apparent;Profile for TV Medion MD20123_DE_A 15 min Apparent [Measurement by ZSW (1min)];166
+TV Medion MD20123_DE_A;Apparent;Profile for TV Medion MD20123_DE_A 2h Apparent [Measurement by ZSW (1min)];673
+TV Medion MD20123_DE_A;Apparent;Profile for TV Medion MD20123_DE_A Apparent [Measurement by ZSW (1min)];775
+TV Medion MD20123_DE_A;Apparent;Standby Generic 01 h 0 min 1% [Synthetic];8777
+TV Medion MD20123_DE_A;Electricity;Profile for TV Medion MD20123_DE_A 1,5h Electricity [Measurement by ZSW (1min)];328
+TV Medion MD20123_DE_A;Electricity;Profile for TV Medion MD20123_DE_A 15 min Electricity [Measurement by ZSW (1min)];166
+TV Medion MD20123_DE_A;Electricity;Profile for TV Medion MD20123_DE_A 2h Electricity [Measurement by ZSW (1min)];673
+TV Medion MD20123_DE_A;Electricity;Profile for TV Medion MD20123_DE_A Electricity [Measurement by ZSW (1min)];775
+TV Medion MD20123_DE_A;Electricity;Standby Generic 01 h 0 min 1% [Synthetic];8777
+TV Medion MD20123_DE_A;Inner Device Heat Gains;Profile for TV Medion MD20123_DE_A 1,5h Electricity [Measurement by ZSW (1min)];328
+TV Medion MD20123_DE_A;Inner Device Heat Gains;Profile for TV Medion MD20123_DE_A 15 min Electricity [Measurement by ZSW (1min)];166
+TV Medion MD20123_DE_A;Inner Device Heat Gains;Profile for TV Medion MD20123_DE_A 2h Electricity [Measurement by ZSW (1min)];673
+TV Medion MD20123_DE_A;Inner Device Heat Gains;Profile for TV Medion MD20123_DE_A Electricity [Measurement by ZSW (1min)];775
+TV Medion MD20123_DE_A;Inner Device Heat Gains;Standby Generic 01 h 0 min 1% [Synthetic];8777
+TV Medion MD20123_DE_A;Reactive;Profile for TV Medion MD20123_DE_A 1,5h Reactive [Measurement by ZSW (1min)];328
+TV Medion MD20123_DE_A;Reactive;Profile for TV Medion MD20123_DE_A 15 min Reactive [Measurement by ZSW (1min)];166
+TV Medion MD20123_DE_A;Reactive;Profile for TV Medion MD20123_DE_A 2h Reactive [Measurement by ZSW (1min)];673
+TV Medion MD20123_DE_A;Reactive;Profile for TV Medion MD20123_DE_A Reactive [Measurement by ZSW (1min)];775
+TV Medion MD20123_DE_A;Reactive;Standby Generic 01 h 0 min 1% [Synthetic];8777
+Toaster / Bosch TAT8SL1;Apparent;0 h 01 min 100% [Synthetic];877
+Toaster / Bosch TAT8SL1;Electricity;0 h 01 min 100% [Synthetic];877
+Toaster / Bosch TAT8SL1;Inner Device Heat Gains;0 h 01 min 100% [Synthetic];877
+Toaster / Bosch TAT8SL1;Reactive;0 h 01 min 100% [Synthetic];877
+Toilet 6 L/min;Cold Water;0 h 01 min 100% [Synthetic];3952
+Toys;None;0 h 30 min 100% [Synthetic];111
+Toys;None;01 h 0 min 100% [Synthetic];116
+Toys;None;01 h 30 min 100% [Synthetic];112
+Toys;None;02 h 0 min 100% [Synthetic];108
+Tuba;None;04 h 0 min 100% [Synthetic];16
+Walking Shoes;None;02 h 0 min 100% [Synthetic];70
+Washing Machine AEG Öko Lavamat Carat 4658;Apparent;Profile for Washing Machine AEG Öko Lavamat Carat 4658 Apparent [Measured 1 min Resolution (TUC)];231
+Washing Machine AEG Öko Lavamat Carat 4658;Apparent;Washing Machine Profile Measured 60°C 2h [Measured 1 min Resolution (Noah)];57
+Washing Machine AEG Öko Lavamat Carat 4658;Cold Water;0 h 10 min 100% [Synthetic];288
+Washing Machine AEG Öko Lavamat Carat 4658;Electricity;Profile for Washing Machine AEG Öko Lavamat Carat 4658 Electricity [Measured 1 min Resolution (TUC)];231
+Washing Machine AEG Öko Lavamat Carat 4658;Electricity;Washing Machine Profile Measured 60°C 2h [Measured 1 min Resolution (Noah)];57
+Washing Machine AEG Öko Lavamat Carat 4658;Inner Device Heat Gains;Profile for Washing Machine AEG Öko Lavamat Carat 4658 Electricity [Measured 1 min Resolution (TUC)];231
+Washing Machine AEG Öko Lavamat Carat 4658;Inner Device Heat Gains;Washing Machine Profile Measured 60°C 2h [Measured 1 min Resolution (Noah)];57
+Washing Machine AEG Öko Lavamat Carat 4658;Reactive;Profile for Washing Machine AEG Öko Lavamat Carat 4658 Electricity [Measured 1 min Resolution (TUC)];231
+Washing Machine AEG Öko Lavamat Carat 4658;Reactive;Washing Machine Profile Measured 60°C 2h [Measured 1 min Resolution (Noah)];57
+Watering Can;None;0 h 30 min 100% [Synthetic];129
+Window;None;02 h 0 min 100% [Synthetic];15
+Wooden Toys;None;01 h 0 min 100% [Synthetic];156
+Wooden Toys;None;02 h 0 min 100% [Synthetic];161

@@ -1,0 +1,4 @@
+CHS01 Egon (45/Male)(45/Male)
+CHS01 Hella (40/Female)(40/Female)
+CHS01 Justus (15/Male)(15/Male)
+CHS01 Lucia (11/Female)(11/Female)
