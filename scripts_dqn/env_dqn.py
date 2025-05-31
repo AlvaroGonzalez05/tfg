@@ -11,28 +11,34 @@ Autor: Álvaro González
 """
 
 import numpy as np
-import pandas as pd
 import json
+import pandas as pd  # ya que lo necesitamos para leer el CSV
 
 with open("data_dqn/processed_ev_charging_patterns_dqn_constants.json") as f:
     constants = json.load(f)
 
 class EVChargingEnv:
-    def __init__(self, data, p_max=constants['max_charging_power (kW)'], soc_target=0.8, initial_soc=constants['avg_initial_soc (%)'] / 100, steps_per_episode=96, p_red=7):
+    def __init__(self, data, p_max = constants['max_charging_power (kW)'], 
+                 soc_target = 0.8, initial_soc = constants['avg_initial_soc (%)'] / 100,
+                 steps_per_episode = 96, p_red = 7):
         self.data = data
         self.p_max = p_max  # Potencia máxima normalizada
         self.soc_target = soc_target
         self.initial_soc = initial_soc
         self.steps_per_episode = steps_per_episode  # 15 min slots = 96 por día
-        self.p_red = p_red  # Potencia contratada con la red
+        self.p_red = p_red  # Potencia contratada
         self.initial_price = constants['avg_price_per_kwh (USD/kWh)']
         self.current_price = self.initial_price
+        df_pg = pd.read_csv("data_dqn/preprocessed/P_NG_household.csv")
+        self.p_ng_series = df_pg["P_NG_kW"].values
+        self.availability_series = df_pg["Available"].values
+        self.price_series = df_pg["Electricity Price (EUR/kWh)"].values
         self.reset()
 
     def reset(self):
         self.current_step = 0
         self.current_price = self.initial_price
-        self.soc = np.random.standard_normal(0.03, 0.25)
+        self.soc = np.random.uniform(0.03, 0.25)
         self.done = False
         return self._get_state()
 
@@ -54,64 +60,56 @@ class EVChargingEnv:
 
     def step(self, action):
         row = self.data.iloc[self.current_step]
-        available = row['Available']
-        p_ng = row['P_NG_kW']
+        available = self.availability_series[self.current_step]
+        
+        p_ng = self.p_ng_series[self.current_step]
+        p_d = self.p_red - p_ng
+        
+        price = self.price_series[self.current_step]
+        self.current_price = price
 
         # Acción: 0 = no cargar, 1 = cargar
         power = self.p_max * action
         delta_soc = power * 0.25  # 15 min = 0.25 h
 
         reward = 0
+        
+        # Penalizaciones y bonificaciones basadas en la disponibilidad
+        # Si la disponibilidad es baja y se intenta cargar, penalizar fuertemente
+        # Si la disponibilidad es alta y se carga, bonificar
+        if available < 0.2 and power > 0:
+            reward -= 20
+        elif available < 0.5 and power > 0:
+            reward -= 10 * (0.5 - available)
+        elif available > 0.8 and power > 0:
+            reward += 5
 
-        if available == 0 and action == 1:
-            reward -= 100
-            power = 0
-            delta_soc = 0
+        # potencia_disponible = p_red - p_ng
+        if power > p_d:
+            reward -= 10
+        else:
+            reward += 10
 
-        # Penalizar si se supera la potencia contratada
-        if action == 1 and (power + p_ng) > self.p_red:
-            reward -= 15
-            power = 0
-            delta_soc = 0
+        # p * 0.25 + soc <= 1.0
+        if self.soc + delta_soc > 1.0:
+            power = (1.0 - self.soc) / 0.25
+            delta_soc = power * 0.25
+
+        elif self.soc == self.soc_target and power > 0:
+            reward -= power * price
+
+        # p < p_red - p_ng
+        if power > self.p_red - p_ng:
+            reward -= 10
+
+        # soc_min <= soc <= soc_max
+        if self.soc + delta_soc < 0.03 or self.soc + delta_soc > 0.25:
+            reward -= 10
 
         # Aplicar carga si todo es válido
         self.soc += delta_soc
 
-        # Límite SOC máximo
-        if self.soc > 1.0:
-            self.soc = 1.0
-            power = 0
-            delta_soc = 0
-            
-        if self.soc == 1.0 and power == 1:
-            reward -= 10
-            power = 0
-            delta_soc = 0
-
-        # Aproximar precio
-        time_minutes = self.current_step * 15
-        hour = (time_minutes // 60) % 24
-        minute = time_minutes % 60
-        is_night = hour < 6 or (hour == 6 and minute <= 30) or hour >= 18
-
-        drift = np.random.normal(-0.002 if is_night else 0.002, 0.01)
-        self.current_price *= (1 + drift)
-        # Limitar a +-50% del inicial
-        if self.current_price > 1.5 * self.initial_price or self.current_price < 0.5 * self.initial_price:
-            self.current_price = self.initial_price
-
-        price = self.current_price
         reward += - price * power  # Función objetivo
-
-        # Promover carga, aunque sea poco
-        self.current_step += 1
-        if self.current_step >= self.steps_per_episode:
-            self.done = True
-            if self.soc < self.soc_target:
-                reward += 4/(self.soc_target - self.soc)
-                
-            elif self.soc == self.soc_target:
-                reward += 50
 
         next_state = self._get_state()
         return next_state, reward, self.done, {}

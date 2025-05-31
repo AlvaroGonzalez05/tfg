@@ -11,7 +11,7 @@ import torch
 import torch.nn as nn
 
 class DQNLSTM(nn.Module):
-    def __init__(self, input_dim, output_dim, hidden_dim=64, lstm_layers=1):
+    def __init__(self, input_dim, output_dim, hidden_dim = 64, lstm_layers = 3):
         """
         Inicializa la red.
 
@@ -23,7 +23,11 @@ class DQNLSTM(nn.Module):
         """
         super(DQNLSTM, self).__init__()
         self.lstm = nn.LSTM(input_dim, hidden_dim, lstm_layers, batch_first=True)
+        self.ln = nn.LayerNorm(hidden_dim)
         self.fc1 = nn.Linear(hidden_dim, hidden_dim)
+        self.dropout = nn.Dropout(0.2)
+        self.fc2 = nn.Linear(hidden_dim, hidden_dim)
+        self.ln2 = nn.LayerNorm(hidden_dim)
         self.out = nn.Linear(hidden_dim, output_dim)
 
     def forward(self, x):
@@ -36,7 +40,11 @@ class DQNLSTM(nn.Module):
         Returns:
             Tensor: Q-valores para cada acción (batch_size, output_dim)
         """
-        lstm_out, _ = self.lstm(x)  # lstm_out shape: (batch_size, sequence_length, hidden_dim)
-        last_output = lstm_out[:, -1, :]  # Tomar el último output de la secuencia
-        x = torch.relu(self.fc1(last_output))
+        lstm_out, _ = self.lstm(x)
+        x = torch.mean(lstm_out, dim=1)  # mean pooling en vez de last_output
+        x = self.ln(x)
+        x = torch.relu(self.fc1(x))
+        x = self.dropout(x)
+        x = torch.relu(self.fc2(x))
+        x = self.ln2(x)
         return self.out(x)

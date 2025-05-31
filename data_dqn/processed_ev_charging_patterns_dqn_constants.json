@@ -1,6 +1,6 @@
 {
-    "avg_price_per_kwh (USD/kWh)": 1.5776811164926134,
+    "avg_price_per_kwh (USD/kWh)": 0.15776811164926134,
     "avg_battery_capacity (kWh)": 74.53469170945215,
-    "max_charging_power (kW)": 97.34225469987976,
+    "max_charging_power (kW)": 7.34225469987976,
     "avg_initial_soc (%)": 49.130011788009845
 }

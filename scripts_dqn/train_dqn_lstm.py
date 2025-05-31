@@ -28,13 +28,13 @@ TARGET_UPDATE = 10
 SEQUENCE_LENGTH = 4  # Número de pasos pasados que alimentamos al LSTM
 
 # Cargar datos preprocesados
-data = pd.read_csv('data_dqn/processed_final/state_sequences_dqn_lstm.csv')
+data = pd.read_csv('data_dqn/preprocessed/state_sequences_dqn_lstm.csv')
 
 # Crear entorno
 env = EVChargingEnv(data)
 
 # Inicializar redes
-state_dim = 9  # Ajustar si el espacio de estados cambia
+state_dim = 8  # Ajustar si el espacio de estados cambia
 action_dim = 2  # Cargar o no cargar
 
 policy_net = DQNLSTM(state_dim, action_dim)
@@ -103,5 +103,5 @@ for episode in range(NUM_EPISODES):
     print(f'Episodio {episode}, Recompensa total: {total_reward:.2f}')
 
 # Guardar modelo
-torch.save(policy_net.state_dict(), '../models/dqn_lstm_model.pth')
+torch.save(policy_net.state_dict(), 'models/dqn_lstm_model.pth')
 print("✅ Modelo LSTM guardado en models/dqn_lstm_model.pth")
